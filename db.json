@@ -1,0 +1,506 @@
+{
+  "menu": [
+    { "id": 1, "name": "موبایل", "link": "http://localhost:3000/Products3?category=mobile", "dropdown": [] },
+    { "id": 2, "name": "لپ تاپ", "link": "https://google.com", "dropdown": [] },
+    {
+      "id": 3,
+      "name": "مد و پوشاک",
+      "link": "https://google.com",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "name": "خانه و اشپزخانه",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "مبل",
+          "link": "http://localhost:3000/Products1",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "name": "حمام",
+          "link": "https://google.com",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "name": "فرش",
+          "link": "https://google.com",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "name": "پرده",
+          "link": "https://google.com",
+          "dropdown": []
+        }
+      ]
+    }
+  ],
+  "Slider": [
+    {
+      "id": 1,
+      "image": "file:///C:/Users/user/Desktop/25/src/image/f837d4422335566819c2ad534c2dd316c4048cab_1776755004.webp"
+    },
+    {
+      "id": 2,
+      "image": "file:///C:/Users/user/Desktop/25/src/image/e2fc3f348912c129e312583df9813896d50bb1ed_1781364388.webp"
+    },
+    {
+      "id": 3,
+      "image": "file:///C:/Users/user/Desktop/25/src/image/693460c45dd2548bf68f885ddaace53586a198fd_1781688239.webp"
+    },
+    {
+      "id": 4,
+      "image": "file:///C:/Users/user/Desktop/25/src/image/src/image/517817fa6ff22d9f5615d5a77dac1a1e941ad9c8_1782049672.webp"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "your perfect pack for everyday use ",
+      "category": "men's clothing",
+      "image": "./src/image/2/27bcc10a15783bd9cbd3b9b6bf5f6acc58d67bb0_1780669286.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan lo",
+      "category": "men's clothing",
+      "image": "./src/image/2/b99b50848fba5e501d7274964d2a9f5e9d055364_1787203764.webp",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn",
+      "category": "men's clothing",
+      "image": "./src/image/2/c3b9a170fb4c1e68c167cb531664a06ce459dc50_1787469474.webp",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly differen",
+      "category": "men's clothing",
+      "image": "./src/image/2/64befbccde92db44d19fe012942bf25b74d1718d_1713867221.webp",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "title": "کوله پشتی",
+      "price": 109.95,
+      "description": "کیف عالی برای طبیعت گردی با قابلیت حمل لپ تاپ و با ضربه گیر",
+      "category": "پوشاک مردانه",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "تیشرت مردانه",
+      "price": 22.3,
+      "description": "تیشرت مردانه نخ پنبه بدون استین راحت برای فصل گرما و ضد عرق",
+      "category": "پوشاک مردانه",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "جاکت مردانه نخی",
+      "price": 55.99,
+      "description": "جاکت عالی مناسب برای فصل های پاییز و زمستان و حتی برای هدیه دادن به دیگران",
+      "category": "پوشاک مردانه",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "پلیور نخی مردانه",
+      "price": 15.99,
+      "description": "پلیور زیبا با رنگهای متنوع از قبیل ابی و سبز و غیره که دارای لطافت است",
+      "category": "پوشاک مردانه",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "دستبند زنانه نقره",
+      "price": 695,
+      "description": "دستبد درخشان نقره که باعث کیفیت دادن به دستتان میشود که رنگ ثابت است و زنگ نمیزند",
+      "category": "جواهرات",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "انگشتر طلا",
+      "price": 168,
+      "description": "انگشتر درخشان نقره که باعث کیفیت دادن به دستتان میشود که رنگ ثابت است و زنگ نمیزند",
+      "category": "جواهرات",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "انگشتر نگین دار طلا سفید",
+      "price": 9.99,
+      "description": "انگشتر درخشان نقره که باعث کیفیت دادن به دستتان میشود که رنگ ثابت است و زنگ نمیزند مناسب عقد",
+      "category": "جواهرات",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "انگشتر نامزدی پلاتین",
+      "price": 10.99,
+      "description": "انگشتر درخشان نقره که باعث کیفیت دادن به دستتان میشود که رنگ ثابت است و زنگ نمیزند مناسب عقد",
+      "category": "جواهرات",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "شارجر",
+      "price": 64,
+      "description": "شارجر مدل سامسونگ 44 که اکثر گوشی های سامسونگ را شارج میکند و باعث خرابی گوشی اتان نمیشود",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "هارد اس اس دی 6 گیگ",
+      "price": 109,
+      "description": "شما میتوانید همه اطلاعات خود را داخل ان بریزید تا 1000 فیلم فضا برای ذخیره کردن دارد",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "هارد اس اس دی 6 گیگ",
+      "price": 109,
+      "description": "شارجر مدل سامسونگ 44 که اکثر گوشی های سامسونگ را شارج میکند و باعث خرابی گوشی اتان نمیشود",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "پلی استیشن سیار",
+      "price": 114,
+      "description": "مناسب برای کودکان که میخواهند سرگرم شوند و لذت ببرند از بازی با دوستان خود",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "تلویزیون اچ دی ال جی",
+      "price": 599,
+      "description": "با کیفیت تصویر عالی 3 بعدی که چشمان همه را خیره میکندبا مصرف برق بسیار کم",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "مانیتور سامسونگ مدل اچ1",
+      "price": 999.99,
+      "description": "با ضمانت نامه اصل و کیفیت عالی و تخت و سبک که امکان جابجایی سریع دارد",
+      "category": "وسایل برقی",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "بارانی زنانه",
+      "price": 56.99,
+      "description": "مناسب برای فصول سرد و زمستان و باران که استین دار است  و بسیار گرم و زیبا است",
+      "category": "لباس زنانه",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "پاکت چرمی",
+      "price": 29.95,
+      "description": "100% چرم که قابل شستشو با دست هم است و چرمش طبیعی استو قدش تا زانو است",
+      "category": "پوشاک زنانه",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "بارانی زنانه",
+      "price": 39.99,
+      "description": "100% چرم که قابل شستشو با دست هم است و چرمش طبیعی استو قدش تا زانو است",
+      "category": "پوشاک زنانه",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "پلیور بدون استین",
+      "price": 9.85,
+      "description": "کاملا نخی و بدن استین و سفید رنگ و بسیار زیبا که باعث زیباتر شدن شما میشود",
+      "category": "پوشاک زنانه",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "پلیور بدون استین",
+      "price": 7.95,
+      "description": "کاملا نخی و بدن استین و سفید رنگ و بسیار زیبا که باعث زیباتر شدن شما میشود",
+      "category": "پوشاک زنانه",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "پیراهن زنانه",
+      "price": 12.99,
+      "description": "45% پنبه که بسیار لطیف و راحت بری خانمهای خوش پوش که لطافت ان را دوست دارند",
+      "category": "پوشاک زنانه",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ],
+  "Products1": [
+    {
+      "id": 1,
+      "title": "گوشی موبایل شیایومی",
+      "price": 109.95,
+      "description": "مدل x1 pro",
+      "category": "Electronics",
+      "image": "./src/image/3/9f7c19aa98b4a63196a55213bc395149e63c094f_1776267138.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "گوشی موبایل سامسونگ",
+      "price": 22.3,
+      "description": "مدل Galaxy S21 دو سیم کارت",
+      "category": "Electronics",
+      "image": "./src/image/3/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.webp",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "گوشی موبایل سامسونگ",
+      "price": 55.99,
+      "description": "مدل Pocco MC521 F2",
+      "category": "Electronics",
+      "image": "./src/image/3/26f599e25cf611777c28deb04c9bffc012c392ad_1779576063.webp",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "گوشی موبایل شیایومی",
+      "price": 15.99,
+      "description": "مدل Galaxy S216",
+      "category": "Electronics",
+      "image": "./src/image/3/f763c68074bc2007562135176a588d2324593b63_1779812739.webp",
+
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    }
+  ],
+  "Products2": [
+    {
+      "id": 1,
+      "title": "لپ تاپ شیایومی",
+      "price": 109.95,
+      "description": "مدل x1 pro",
+      "category": "Electronics",
+      "image": "./src/image/3/d7a5cb645c49a09b1b5d14bb397df3c4b173dd09_1786298376.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "لپ تاپ سامسونگ",
+      "price": 22.3,
+      "description": "مدل Galaxy S21 دو سیم کارت",
+      "category": "Electronics",
+      "image": "./src/image/3/0ba759e574703b02469954c9b75867debc85e3d0_1754236994.webp",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "لپ تاپ سامسونگ",
+      "price": 55.99,
+      "description": "مدل Pocco MC521 F2",
+      "category": "Electronics",
+      "image": "./src/image/3/e0562b9710c61c64020b15ec5715db7dea835d68_1786538654.webp",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "لپ تاپ شیایومی",
+      "price": 15.99,
+      "description": "مدل Galaxy S216",
+      "category": "Electronics",
+      "image": "./src/image/3/e23b53f685b4a850545cd550b4249c5316aec61f_1786538642.webp",
+
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    }
+  ],
+  "Products3": [
+    {
+      "id": 1,
+      "title": "لباس خواب",
+      "price": 109.95,
+      "description": "مدل x1-44",
+      "category": "لباس زنانه",
+      "image": "./src/image/3/33d5d6ac3b3d56c47e5b307244bf420f44fa2310_1788941364.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "لباس خواب",
+      "price": 22.3,
+      "description": "مدل S21-23",
+      "category": "لباس زنانه",
+      "image": "./src/image/3/f2b5b9dec194f047604aa6c7a7c85ad72b121165_1788941349.webp",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "لباس خواب",
+      "price": 55.99,
+      "description": "مدل MC521-F2",
+      "category": "لباس زنانه",
+      "image": "./src/image/3/7211d8ebe2293ca745a2842abed23e78732b3560_1788941351.webp",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "لباس خواب",
+      "price": 15.99,
+      "description": "مدل S216-22",
+      "category": "لباس زنانه",
+      "image": "./src/image/3/c4f7a648b3502afcfe168fb76c220dc1998070a1_1618744622.webp",
+
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    }
+  ]
+}
